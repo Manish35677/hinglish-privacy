@@ -1,0 +1,12 @@
+{
+  "latestVersion": "1.0.0",
+  "minRequiredVersion": "1.0.0",
+  "forceUpdate": true,
+  "updateTitle": "Update Required",
+  "updateTitleHindi": "ऐप अपडेट करना ज़रूरी है",
+  "updateMessage": "A new version of Hinglish is available on Google Play with improvements and new lessons. Please update to continue using the app.",
+  "updateMessageHindi": "Hinglish का नया वर्ज़न गूगल प्ले स्टोर पर उपलब्ध है। ऐप का उपयोग जारी रखने के लिए कृपया अपडेट करें।",
+  "whatsNew": [],
+  "whatsNewHindi": [],
+  "updateUrl": "https://play.google.com/store/apps/details?id=com.hinglish"
+}
